@@ -5,4 +5,6 @@ Configureable with application, drivers and settings.
 
 ---
 
-https://i.postimg.cc/5tYDnLpn/MDT-Loading-Screen.png
+[![mdtloadingscreen.png](https://i.postimg.cc/jjrnq0CT/mdtloadingscreen.png)](https://postimg.cc/MndptLy3)
+
+[![Windows10.png](https://i.postimg.cc/Z0t4PmGK/Windows10.png)](https://postimg.cc/30Bs7srP)
