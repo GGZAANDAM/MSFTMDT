@@ -1,7 +1,8 @@
 # Microsoft Deployment Toolkit
 
 Unattended Windows 10 or Windows 2012/2016/2019 installation.
-Configureable with application, drivers and settings.
+
+Configureable with applications, drivers and settings.
 
 ---
 
